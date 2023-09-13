@@ -37,7 +37,8 @@ connection of 2 at cast i
 
 Solution:
 Pseudocode:
-\\\n = int(input("Enter the number of casts: "))
+```
+n = int(input("Enter the number of casts: "))
 casts = []
 for i in range(n):
 casts.append(set(input(f"Enter the cast of Movie {i + 1} (Names should be comma seperated):
@@ -53,7 +54,11 @@ print(f'Shortest Connection is {2}, cast = {tempCast}')
 exit(0)
 else:
 print("Shortest Connection > 2 or No Connection")
-exit(0)\\\
+exit(0)
+
+```
+Time Complexity:- O(N)
+Space Complexity:- O(N) / O(1) Depending on condition
 
 Time Complexity:- O(N)
 Space Complexity:- O(N) / O(1) Depending on condition.
