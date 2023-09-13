@@ -60,8 +60,4 @@ exit(0)
 Time Complexity:- O(N)
 Space Complexity:- O(N) / O(1) Depending on condition
 
-Time Complexity:- O(N)
-Space Complexity:- O(N) / O(1) Depending on condition.
-Input example 1: Shortest Connection 1
-Input example 2: Shortest Connection 2
-Input example 3: Shortest Connection >2 or No Connection
+
