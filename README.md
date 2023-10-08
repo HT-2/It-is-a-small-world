@@ -16,6 +16,7 @@ tempCast, such that CAST[0] and tempCast have a string in common, and CAST[1] an
 tempCast have a string common, then the shortest connection is 2. Else the shortest connection is
 greater than 2 or there is no connection.
 
+
 Summary:
 1. Take the input n which represents the number of casts.
 2. For loop to get the casts from the user alternatively we can took input from a text file
