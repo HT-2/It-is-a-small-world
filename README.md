@@ -35,6 +35,7 @@ common in between them than we will check if same is true
 connection of 2 at cast i
 11. Else shortest connection is more than 2 or no connection.
 
+
 Solution:
 Pseudocode:
 ```
